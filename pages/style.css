@@ -75,14 +75,14 @@ body
     position: relative;
     text-decoration: none;
     margin-left: 120px;
-    bottom: 70px;
+    bottom: 30px;
 }
 #thirdLink
 {
     position: relative;
     text-decoration: none;
     margin-right: 120px;
-    bottom: 120px;
+    bottom: 80px;
 
 }
 #fourthLink
@@ -90,7 +90,7 @@ body
     position: relative;
     text-decoration: none;
     margin-left: 120px;
-    bottom: 170px;
+    bottom: 130px;
 
 
 }
@@ -99,7 +99,7 @@ body
     position: relative;
     text-decoration: none;
     margin-right: 120px;
-    bottom: 220px;
+    bottom: 180px;
 
 }
 #sixthLink
@@ -107,7 +107,7 @@ body
     position: relative;
     text-decoration: none;
     margin-left: 120px;
-    bottom: 270px;
+    bottom: 230px;
 
 }
 
